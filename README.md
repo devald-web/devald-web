@@ -6,7 +6,7 @@
 
 <p align="justify">I have a keen interest in learning new technologies and staying active in the tech community. While I have a understanding of various technologies, my intermediate skills lie in Python, HTML, CSS, and JavaScript. </p>
 
-<p align="justify">Currently, I'm doing my internship at UnderC0de, an Argentine NGO. I also completed a Java/Spring bootcamp, but the pace was too fast for me to gain solid knowledge. Nonetheless, it sparked my interest, and I plan to dive deeper into Java and Spring after mastering ReactJS, NextJS, and React Native.</p>
+<p align="justify">Currently, I'm doing my internship at UnderC0de, an Argentine NGO. I also completed a Java/Spring bootcamp. Nonetheless, it sparked my interest, and I plan to dive deeper into Java and Spring after mastering ReactJS, NextJS, and React Native.</p>
 
 <p align="justify">I will be showcasing my most ambitious full-stack projects here. Stay tuned for updates and feel free to explore my work!</p>
 
