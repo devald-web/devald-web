@@ -1,12 +1,12 @@
 [![Banner][banner-img]][banner-link]
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=devald-web&style=for-the-badge"></h2>
+<h2>👇 About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=devald-web&style=for-the-badge"></h2>
 
-<p align="justify">Hello! I'm Aldhair, a passionate and proactive software engineering student with Artificial Intelligence. I completed my secondary education in Peru and am currently pursuing a technical degree in Software Engineering with a focus on AI.</p>
+<p align="justify">Hello! 👋🏻 I'm Aldhair, a passionate and proactive software engineering student with Artificial Intelligence 🧙‍♂️. I completed my secondary education in Peru and am currently pursuing a technical degree in Software Engineering with a focus on AI 🍃.</p>
 
-<p align="justify">I have a keen interest in learning new technologies and staying active in the tech community. While I have a understanding of various technologies, my intermediate skills lie in Python, HTML, CSS, and JavaScript. </p>
+<p align="justify">✨ I have a keen interest in learning new technologies and staying active in the tech community. While I have a understanding of various technologies, my intermediate skills lie in Python, HTML, CSS, and JavaScript ✨. </p>
 
-<p align="justify">Currently, I'm doing my internship at UnderC0de, an Argentine NGO. I also completed a Java/Spring bootcamp. Nonetheless, it sparked my interest, and I plan to dive deeper into Java and Spring after mastering ReactJS, NextJS, and React Native.</p>
+<p align="justify">👀️ Currently, I'm doing my internship at UnderC0de, an Argentine NGO. I also completed a Java/Spring bootcamp. Nonetheless, it sparked my interest, and I plan to dive deeper into Java and Spring after mastering ReactJS, NextJS, and React Native.</p>
 
 <p align="justify">I will be showcasing my most ambitious full-stack projects here. Stay tuned for updates and feel free to explore my work!</p>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### Languages/Frameworks I'm good at:
+### 🔗 Languages/Frameworks I'm good at:
 
 <a href="https://www.python.org"><img alt="python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="42"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a>
@@ -33,7 +33,7 @@
 <a href="https://nodejs.org/en/"><img alt="NodeJS" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a>
 <a href="https://www.mysql.com/"><img alt="mysql" title="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="42"></a>
 
-### Languages/Frameworks I'm learning:
+### 🥋 Languages/Frameworks I'm learning:
 
 <a href="https://react.dev/"><img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="42"></a>
 <a href="https://reactnative.dev/"><img alt="React Native" title="React Native" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="42"></a>
@@ -41,13 +41,13 @@
 <a href="https://tailwindcss.com/"><img alt="tailwind" title="Tailwind" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" height="42"></a>
 <a href="https://www.mongodb.com/"><img alt="mongodb" title="MongoDB" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="42"></a>
 
-### Enviroments I work with:
+### 📦 Enviroments I work with:
 
 <a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="42"></a>
 <a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a>
 <a href="https://code.visualstudio.com/"><img alt="visual studio code" title="Visual Studio Code" src="https://code.visualstudio.com/assets/images/code-stable.png" height="42"></a>
 
-### FullStack Projects
+### 🖥 FullStack Projects
 
 [![](https://img.shields.io/badge/-📝%20My%20Portfolio-000)](https://github.com/devald-web/portfoliov1)
 [![](https://img.shields.io/badge/-🗺%20Pokédex%20FullStack-000)](https://github.com/devald-web/Pokedex-fullstack)
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-## Contact Me
+## 🍻 Contact Me
 
 _Personal card in your terminal._
 
@@ -77,13 +77,9 @@ npx devald
 
 <div align="center">
 
-### Support Me
+### 🎁 Support Me
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg)](https://buymeacoffee.com/devald)
-
-🌟 **Hey!** 🌟 You can contribute to this aspiring developer. Your donation is always warmly welcomed and greatly appreciated. Let's build something amazing!
-
-Thank you for your support! 🌟✨
 
 </div>
 
