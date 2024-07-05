@@ -49,8 +49,9 @@
 
 ### 🖥 FullStack Projects
 
-<a href="https://github.com/devald-web/portfoliov1" target="_blank"><img src="https://img.shields.io/badge/-📝%20My%20Portfolio-000"></a>
-<a href="https://github.com/devald-web/Pokedex-fullstack" target="_blank"><img src="https://img.shields.io/badge/-🗺%20Pokédex%20FullStack-000"></a>
+[![](https://img.shields.io/badge/-📝%20My%20Portfolio-000)](https://github.com/devald-web/portfoliov1)
+[![](https://img.shields.io/badge/-🗺%20Pokédex%20FullStack-000)](https://github.com/devald-web/Pokedex-fullstack)
+
 
 <br>
 
