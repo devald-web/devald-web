@@ -2,7 +2,7 @@
 
 <h2>👇 About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=devald-web&style=for-the-badge"></h2>
 
-<p align="justify">Hello! 👋🏻 I'm Aldhair, a passionate and proactive fullstack mobile and web developer. 🧙‍♂️. I completed my secondary education in Peru and I am currently pursuing a technical degree in Software Engineering with a focus on AI 🍃.</p>
+<p align="justify">Hello! 👋🏻 I'm Aldhair, a passionate and proactive fullstack web developer. 🧙‍♂️. I completed my secondary education in Peru and I am currently pursuing a technical degree in Software Engineering with a focus on AI 🍃.</p>
 
 <p align="justify">✨ I have a keen interest in learning new technologies and staying active in the tech community. While I have a understanding of various technologies, my intermediate skills lie in Python, HTML, CSS, and JavaScript ✨. </p>
 
