@@ -13,11 +13,11 @@
 <h2>My Skills <img height="25px" align="right" alt="Followers" src="https://img.shields.io/github/followers/devald-web.svg?style=social&label=Follow&maxAge=2592000"></h2>
 
 <div align="right">
-  <img width="600px" src="https://devald-readme-stats.vercel.app/api/top-langs/?username=devald-web&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,3431c9,c600a8,ff297b,ff7855,ffbc49,f9f871&theme=graywhite" alt="devald's Top Languages"/>
+  <img width="600px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devald-web&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,3431c9,c600a8,ff297b,ff7855,ffbc49,f9f871&theme=graywhite" alt="devald's Top Languages"/>
 </div>
 
 <div align="left">
-  <img height="137px" src="https://devald-readme-stats.vercel.app/api?username=devald-web&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,f25ecb,044bd9,0460d9,05f2db,05f2c7&theme=graywhite" alt="devald's GitHub Stats"/>
+  <img height="137px" src="[https://devald-readme-stats.vercel.app/api?username=devald-web](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devald-web)&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,f25ecb,044bd9,0460d9,05f2db,05f2c7&theme=graywhite" alt="devald's GitHub Stats"/>
 </div>
 
 
