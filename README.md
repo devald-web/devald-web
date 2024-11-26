@@ -17,7 +17,7 @@
 </div>
 
 <div align="left">
-  <img height="137px" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devald-web](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devald-web)&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,f25ecb,044bd9,0460d9,05f2db,05f2c7&theme=graywhite" alt="devald's GitHub Stats"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devald-web&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,f25ecb,044bd9,0460d9,05f2db,05f2c7&theme=graywhite" alt="devald's GitHub Stats"/>
 </div>
 
 
