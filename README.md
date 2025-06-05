@@ -4,9 +4,9 @@
 
 <p align="justify">Hello! 👋🏻 I'm Aldhair, a passionate and proactive fullstack web developer. 🧙‍♂️. I completed my secondary education in Peru and I am currently pursuing a technical degree in Software Engineering with a focus on AI 🍃.</p>
 
-<p align="justify">✨ I have a keen interest in learning new technologies and staying active in the tech community. While I have a understanding of various technologies, my intermediate skills lie in Python, HTML, CSS, and JavaScript ✨. </p>
+<p align="justify">✨ I have a keen interest in learning new technologies and staying active in the tech community. While I have a understanding of various technologies, my intermediate skills lie in HTML, CSS, and JavaScript ✨. </p>
 
-<p align="justify">👀️ Currently, I'm doing my internship at UnderC0de, an Argentine NGO. I also completed a Java/Spring bootcamp. However, it sparked my interest, and I plan to dive deeper into Java and Spring after mastering ReactJS, NextJS, and React Native.</p>
+<p align="justify">👀️ Currently, I'm doing my internship at Escuela de Postgrado - UNAP. I also completed a Java/Spring bootcamp. However, it sparked my interest, and I plan to dive deeper into Java and Spring after mastering React, Nextjs, and UX/UI</p>
 
 <p align="justify">I will be showcasing my most ambitious full-stack projects here. Stay tuned for updates and feel free to explore my work!</p>
 
@@ -16,17 +16,10 @@
   <img width="600px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devald-web&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,3431c9,c600a8,ff297b,ff7855,ffbc49,f9f871&theme=graywhite" alt="devald's Top Languages"/>
 </div>
 
-<div align="left">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devald-web&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,f25ecb,044bd9,0460d9,05f2db,05f2c7&theme=graywhite" alt="devald's GitHub Stats"/>
-</div>
-
-
-
 <div align="center">
 
 ### 🔗 Languages/Frameworks I'm good at:
 
-<a href="https://www.python.org"><img alt="python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="42"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a> 
