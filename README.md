@@ -12,7 +12,7 @@
 
 <h2>My Skills <img height="25px" align="right" alt="Followers" src="https://img.shields.io/github/followers/devald-web.svg?style=social&label=Follow&maxAge=2592000"></h2>
 
-<div align="right">
+<div align="center">
   <img width="600px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devald-web&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,3431c9,c600a8,ff297b,ff7855,ffbc49,f9f871&theme=graywhite" alt="devald's Top Languages"/>
 </div>
 
