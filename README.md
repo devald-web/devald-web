@@ -69,15 +69,6 @@ npx devald
 </div>
 <p align="center"><img height="300px" align="center" src="https://raw.githubusercontent.com/devald-web/devald-web/main/npx_card-transformed.png"></p>
 
-<div align="center">
-
-### 🎁 Support Me
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg)](https://buymeacoffee.com/devald)
-
-</div>
-
-<img align="right" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
 <!-- Link anchors -->
 [banner-img]: https://raw.githubusercontent.com/devald-web/devald-web/main/background_gif_devald(hd).gif
